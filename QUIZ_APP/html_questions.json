@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Add Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "Which HTML Element Is Used For The Largest Heading?",
+        "answer_1": "<h6>",
+        "answer_2": "<h1>",
+        "answer_3": "<head>",
+        "answer_4": "<heading>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "What Is The Correct HTML Element For Inserting A Line Break?",
+        "answer_1": "<break>",
+        "answer_2": "<lb>",
+        "answer_3": "<br>",
+        "answer_4": "<hr>",
+        "right_answer": "<br>"
+    },
+    {
+        "title": "Which HTML Tag Is Used To Define An Unordered List?",
+        "answer_1": "<ol>",
+        "answer_2": "<ul>",
+        "answer_3": "<li>",
+        "answer_4": "<list>",
+        "right_answer": "<ul>"
+    },
+    {
+        "title": "Which Attribute Is Used To Specify The URL Of An Image?",
+        "answer_1": "href",
+        "answer_2": "link",
+        "answer_3": "src",
+        "answer_4": "url",
+        "right_answer": "src"
+    },
+    {
+        "title": "What Does HTML Stand For?",
+        "answer_1": "Hyper Text Markup Language",
+        "answer_2": "Home Tool Markup Language",
+        "answer_3": "Hyperlinks and Text Markup Language",
+        "answer_4": "Hyper Tech Multi Language",
+        "right_answer": "Hyper Text Markup Language"
+    },
+    {
+        "title": "Which Tag Is Used To Create A Hyperlink In HTML?",
+        "answer_1": "<link>",
+        "answer_2": "<a>",
+        "answer_3": "<href>",
+        "answer_4": "<url>",
+        "right_answer": "<a>"
+    },
+    {
+        "title": "Which Character Is Used To Indicate An End Tag?",
+        "answer_1": "*",
+        "answer_2": "<",
+        "answer_3": "^",
+        "answer_4": "/",
+        "right_answer": "/"
+    },
+    {
+        "title": "Which Tag Is Used To Define A Table Row?",
+        "answer_1": "<td>",
+        "answer_2": "<th>",
+        "answer_3": "<tr>",
+        "answer_4": "<table>",
+        "right_answer": "<tr>"
+    },
+    {
+        "title": "How Can You Make A Text Bold In HTML?",
+        "answer_1": "<bold>",
+        "answer_2": "<b>",
+        "answer_3": "<italic>",
+        "answer_4": "<bb>",
+        "right_answer": "<b>"
+    }
+]
